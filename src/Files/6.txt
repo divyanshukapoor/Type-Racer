@@ -1,0 +1,1 @@
+If you are too lazy to cleanup your database after testing, your filesystem after testing or your memory based system consider moving to a different profession. This isn't a job for you.

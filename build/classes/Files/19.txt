@@ -1,0 +1,1 @@
+Writing in C or C++ is like running a chain saw with all the safety guards removed.
